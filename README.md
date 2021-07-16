@@ -9,7 +9,6 @@
 ## Informações do projeto  
 
 + Cadastro de Veículos
-+ Campos - ID, PLACA, FABRICANTE, MODELO, 
++ Campos - ID, PLACA, FABRICANTE, MODELO, DATA, CUSTO
 + Colunas construidas diretamente no Workbench
-+ Script Python realiza os comandos SQL - CREATE, UPDATE, SELECT, DELETE
-+ Script Python construido utilizando programação estruturada
++ Script Python realiza os comandos SQL , e realizara os calculos de custos diários
